@@ -13,7 +13,7 @@ Follow these steps to set up and run the project in your local dev environment.
 ### 📥 Installation
 1. **Clone the Repository** 🧬
    ```bash
-   git clone https://github.com/SuperGalaxy0901/Chatbot-React.git
+   git clone https://github.com/heavenzeus07/Chatbot-React.git
    cd chatbot-interface-websocket
    ```
 2. **Install Dependencies** 📦
